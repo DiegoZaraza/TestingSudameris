@@ -4,10 +4,10 @@ In this project run automated BDD tests for Android whit APK FasTip included in 
 
 ## Mac
 
-Android SDK: https://developer.android.com/studio
-Java JDK: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-Homebrew: https://brew.sh/
-Xcode installed: https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file
+- Android SDK: https://developer.android.com/studio
+- Java JDK: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- Homebrew: https://brew.sh/
+- Xcode installed: https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file
 
 ## If you use zsh use the following environment variables
 
